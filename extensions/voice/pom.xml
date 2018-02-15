@@ -18,6 +18,7 @@
   <modules>
     <module>org.eclipse.smarthome.voice.mactts</module>
     <module>org.eclipse.smarthome.voice.mactts.test</module>
+	<module>org.eclipse.smarthome.voice.dialogflowhli</module>
   </modules>
 
 </project>
